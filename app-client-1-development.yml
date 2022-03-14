@@ -1,0 +1,4 @@
+attribute:
+  test: ma_valeur_toto_development
+server:
+  port: 8000
