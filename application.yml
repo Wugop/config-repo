@@ -1,2 +1,9 @@
 attribute:
   testtoto: iopiop
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: true
+      overrideSystemProperties: false
+
